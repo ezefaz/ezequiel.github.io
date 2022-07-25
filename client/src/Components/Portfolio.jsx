@@ -56,8 +56,8 @@ function Portfolio() {
       >
         <h2>Countries App</h2>
         <p>App created to filter all the countries in the world.</p>
-        <a href="https://psico-app.vercel.app/"><AiFillPlayCircle /> </a>
-        <a href="https://github.com/tomasld13/PF-psicoApp"><AiFillGithub /> </a>
+        <a href="https://pi-countries-pied.vercel.app/"><AiFillPlayCircle /> </a>
+        <a href="https://github.com/ezefaz/PI-Countries"><AiFillGithub /> </a>
       </motion.div>
       <motion.div
         className="child-three grid-box"

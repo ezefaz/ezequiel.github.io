@@ -21,10 +21,7 @@ function App() {
       <Home />
       <Services />
       <Portfolio />
-      {/* <Milestones /> */}
-      {/* <Blog /> */}
       <Video />
-      {/* <Pricing /> */}
       <Testimonials />
       <Skills />
       <Contact />
