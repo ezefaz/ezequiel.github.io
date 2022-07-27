@@ -14,18 +14,18 @@ function Milestones() {
   const milestone = [ 
   {
     image: milestone1,
-    data: 'Clients Served',
-    amount: '307'    
+    data: 'Year Experience',
+    amount: '1'    
   },
   {
     image: milestone2,
-    data: 'of raw data',
-    amount: '10T'    
+    data: 'English Level',
+    amount: 'B1'    
   },
   {
     image: milestone3,
-    data: 'recommendation',
-    amount: '235'    
+    data: 'completed proyects',
+    amount: '4+'    
   },
 ];
 
@@ -75,7 +75,7 @@ const Section = styled.section`
     left: 0;
     bottom: -30%;
     img {
-      height: 43rem;
+      height: 4rem;
       z-index: 2;
     }
   }
@@ -92,10 +92,12 @@ const Section = styled.section`
       justify-content: center;
       align-items: center;
       gap: 2rem;
+      color: white;
       p {
         font-size: 5rem;
         font-weight: bolder;
         line-height: 3rem;
+        color: white;
       }
       span {
         text-transform: uppercase;
@@ -103,6 +105,7 @@ const Section = styled.section`
       }
       img {
         height: 6rem;
+        color: #fff;
       }
     }
   }

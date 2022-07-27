@@ -21,6 +21,7 @@ function App() {
       <Home />
       <Services />
       <Portfolio />
+      <Milestones />
       <Video />
       <Testimonials />
       <Skills />
