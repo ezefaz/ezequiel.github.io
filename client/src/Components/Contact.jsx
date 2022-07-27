@@ -39,11 +39,6 @@ function Contact() {
                 <strong>Email: ezefaz@gmail.com</strong>
               </p>
             </div>
-            <div>
-              <p>
-                <strong>Linkedin: linkedin.com</strong>
-              </p>
-            </div>
           </div>
           <div className="contact__data__form">
             <input type="text" placeholder='name' />
