@@ -1,4 +1,4 @@
-import Blog from './Components/Blog';
+import React from 'react'
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import Home from './Components/Home';
@@ -9,9 +9,12 @@ import ScrollToTop from './Components/ScrollToTop';
 import Services from './Components/Services';
 import Skills from './Components/Skills';
 import Video from './Components/Video'
+import Content from './Components/Content';
 import Testimonials from './Components/Testimonials';
 import {AnimatePresence, motion} from 'framer-motion/dist/framer-motion'
-import React from 'react'
+import { heroOne, heroTwo, heroThree, heroFour } from './Data/HeroData';
+import Title from './Components/Title';
+
 
 function App() {
 
@@ -20,11 +23,16 @@ function App() {
       <ScrollToTop />
       <Home />
       <Services />
-      <Portfolio />
+      {/* <Portfolio /> */}
       <Milestones />
+      <Content {...heroOne} />
+      <Title value='Portfolio'/>
+			<Content {...heroTwo} />
+			<Content {...heroThree} />
+			<Content {...heroFour} />
+      <Skills />
       <Video />
       <Testimonials />
-      <Skills />
       <Contact />
       <Footer />
     </motion.div>
