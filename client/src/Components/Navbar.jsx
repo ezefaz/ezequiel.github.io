@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import logo from '../Assets/logo.png';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { MdClose } from 'react-icons/md';
 import {AnimatePresence, motion} from 'framer-motion/dist/framer-motion'

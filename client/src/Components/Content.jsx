@@ -195,16 +195,16 @@ export const ContentButton = styled(motion.button)`
 `;
 
 export const ImgWrapper = styled(motion.div)`
-	display: flex;
+	/* display: flex;
 	justify-content: ${({ imgStart }) => (imgStart ? 'flex-start' : 'flex-end')};
 	max-height: 600px;
 	justify-content: center;
 	box-shadow: 0 0 32px 4px #dfdfdf;
 	border-radius: 1rem;
 	position: relative;
-	background: ${({ backgroundColor }) => (backgroundColor ? backgroundColor : '#fafeff')};
+	background: ${({ backgroundColor }) => (backgroundColor ? backgroundColor : '#fafeff')}; */
 	&:before {
-		width: 100%;
+		/* width: 100%;
 		height: 100%;
 		content: '';
 		position: absolute;
@@ -212,7 +212,8 @@ export const ImgWrapper = styled(motion.div)`
 		right: 0;
 		background-image: url('./images/hero-pattern-bg.png');
 		background-size: 100% auto;
-		object-fit: cover;
+		object-fit: cover; */
+		display: none;
 	}
 `;
 
@@ -230,6 +231,7 @@ export const Img = styled(motion.img)`
 	max-width: 100%;
 	vertical-align: middle;
 	display: inline-block;
+	border-radius: 2rem;
 	object-fit: cover;
     width: 100%;
 	height: 300px;

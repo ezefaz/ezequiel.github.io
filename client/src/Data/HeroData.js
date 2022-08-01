@@ -1,5 +1,6 @@
 import psicoapp from '../Assets/psicoapp.jpg'
 import countries from '../Assets/countries.jpg'
+import memories from '../Assets/memories.png'
 
 export const heroOne = {
 	id: 'projects',
@@ -36,32 +37,32 @@ export const heroTwo = {
 
 export const heroThree = {
 	topLine: {
-		text: 'Development',
+		text: 'MERN Full Stack Application',
 	},
-	headline: "Innovative API's ",
+	headline: "Memories App",
 	description:
-		'Our team has amazing developers that can turn any design sketches and ideas into a fully functioning product.',
+		'Using React, Node.js, Express & MongoDB. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. Currently working on implementing authentication.',
 	buttonLabel: 'View Project',
 
-	linkTo: '/download',
+	linkTo: 'https://memories-events-app.netlify.app/',
 	imgStart: '',
 	backgroundColor: 'linear-gradient(104deg, rgba(151,147,218,1) 0%, rgba(183,137,205,1) 100%)',
-	img: {psicoapp},
+	img: memories,
 	start: 'true',
 };
 
-export const heroFour = {
-	reverse: true,
-	topLine: {
-		text: 'Photography and Development',
-	},
-	headline: 'New ECommerce systems',
-	description: 'We take your products and make them look better than they already are!',
-	buttonLabel: 'View Project',
+// export const heroFour = {
+// 	reverse: true,
+// 	topLine: {
+// 		text: 'Photography and Development',
+// 	},
+// 	headline: 'New ECommerce systems',
+// 	description: 'We take your products and make them look better than they already are!',
+// 	buttonLabel: 'View Project',
 
-	linkTo: '/more',
-	imgStart: '',
-	backgroundColor: 'linear-gradient(225deg,#0abac2,#b2de94)',
-	img: {psicoapp},
-	start: 'true',
-};
+// 	linkTo: '/more',
+// 	imgStart: '',
+// 	backgroundColor: 'linear-gradient(225deg,#0abac2,#b2de94)',
+// 	img: {psicoapp},
+// 	start: 'true',
+// };
