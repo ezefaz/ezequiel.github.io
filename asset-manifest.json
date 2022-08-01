@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6b352f1d.chunk.css",
-    "main.js": "/portfolio/static/js/main.aa77f27f.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.aa77f27f.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.298278c7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.298278c7.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ff126120.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ff126120.js.map",
-    "static/js/2.d953ccdd.chunk.js": "/portfolio/static/js/2.d953ccdd.chunk.js",
-    "static/js/2.d953ccdd.chunk.js.map": "/portfolio/static/js/2.d953ccdd.chunk.js.map",
+    "static/js/2.82a1b736.chunk.js": "/portfolio/static/js/2.82a1b736.chunk.js",
+    "static/js/2.82a1b736.chunk.js.map": "/portfolio/static/js/2.82a1b736.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.6b352f1d.chunk.css.map": "/portfolio/static/css/main.6b352f1d.chunk.css.map",
-    "static/js/2.d953ccdd.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d953ccdd.chunk.js.LICENSE.txt",
-    "static/media/Destination1.b43b40eb.png": "/portfolio/static/media/Destination1.b43b40eb.png",
+    "static/js/2.82a1b736.chunk.js.LICENSE.txt": "/portfolio/static/js/2.82a1b736.chunk.js.LICENSE.txt",
+    "static/media/countries.f76d1def.jpg": "/portfolio/static/media/countries.f76d1def.jpg",
     "static/media/home.d00ef787.png": "/portfolio/static/media/home.d00ef787.png",
+    "static/media/memories.474c5d90.png": "/portfolio/static/media/memories.474c5d90.png",
     "static/media/milestone-background.681b0b40.png": "/portfolio/static/media/milestone-background.681b0b40.png",
     "static/media/portfolio1.76d3fdac.png": "/portfolio/static/media/portfolio1.76d3fdac.png",
     "static/media/portfolio2.42d28200.png": "/portfolio/static/media/portfolio2.42d28200.png",
     "static/media/portfolio3.297c50ea.png": "/portfolio/static/media/portfolio3.297c50ea.png",
+    "static/media/psicoapp.4be67114.jpg": "/portfolio/static/media/psicoapp.4be67114.jpg",
     "static/media/resume.b1eb2da4.pdf": "/portfolio/static/media/resume.b1eb2da4.pdf",
     "static/media/service2.c2af3a2c.png": "/portfolio/static/media/service2.c2af3a2c.png",
     "static/media/skills1.11932f58.png": "/portfolio/static/media/skills1.11932f58.png",
@@ -27,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ff126120.js",
-    "static/js/2.d953ccdd.chunk.js",
+    "static/js/2.82a1b736.chunk.js",
     "static/css/main.6b352f1d.chunk.css",
-    "static/js/main.aa77f27f.chunk.js"
+    "static/js/main.298278c7.chunk.js"
   ]
 }
