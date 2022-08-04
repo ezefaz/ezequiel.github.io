@@ -1,6 +1,6 @@
 import psicoapp from '../Assets/psicoapp.jpg'
 import countries from '../Assets/countries.jpg'
-import memories from '../Assets/memories.png'
+import memories from '../Assets/memories-image.png'
 
 export const heroOne = {
 	id: 'projects',
@@ -41,7 +41,7 @@ export const heroThree = {
 	},
 	headline: "Memories App",
 	description:
-		'Using React, Node.js, Express & MongoDB. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. Currently working on implementing authentication.',
+		'Using React, Node.js, Express & MongoDB. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. You can create an account, create posts, comment and like other users posts, check their profile and others awesome functionalities.',
 	buttonLabel: 'View Project',
 
 	linkTo: 'https://memories-events-app.netlify.app/',
