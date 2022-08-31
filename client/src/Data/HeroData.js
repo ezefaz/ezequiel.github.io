@@ -1,6 +1,7 @@
 import psicoapp from '../Assets/psicoapp.jpg'
 import countries from '../Assets/countries.jpg'
 import memories from '../Assets/memories-image.png'
+import marketify from '../Assets/marketify.png'
 
 export const heroOne = {
 	id: 'projects',
@@ -27,7 +28,7 @@ export const heroTwo = {
 		"Objective: to make an application where you can see the different available countries along with relevant information about them using an external API, and from it you can, among other things: search for countries, filter / sort them and create activities.",
 	buttonLabel: 'View Project',
 
-	linkTo: 'https://pi-countries-pied.vercel.app/',
+	linkTo: 'https://pi-countries-app-kappa.vercel.app/home',
 	imgStart: 'start',
 	img: countries,
 	backgroundColor: 'linear-gradient(	140deg	,#ffaf73 30%,#fffecc 120%)',
@@ -44,25 +45,25 @@ export const heroThree = {
 		'Using React, Node.js, Express & MongoDB. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives. You can create an account, create posts, comment and like other users posts, check their profile and others awesome functionalities.',
 	buttonLabel: 'View Project',
 
-	linkTo: 'https://memories-events-app.netlify.app/',
+	linkTo: 'https://memories-events-app.netlify.app/posts',
 	imgStart: '',
 	backgroundColor: 'linear-gradient(104deg, rgba(151,147,218,1) 0%, rgba(183,137,205,1) 100%)',
 	img: memories,
 	start: 'true',
 };
 
-// export const heroFour = {
-// 	reverse: true,
-// 	topLine: {
-// 		text: 'Photography and Development',
-// 	},
-// 	headline: 'New ECommerce systems',
-// 	description: 'We take your products and make them look better than they already are!',
-// 	buttonLabel: 'View Project',
+export const heroFour = {
+	reverse: true,
+	topLine: {
+		text: 'Digital Marketing Agency',
+	},
+	headline: 'Marketify',
+	description: 'Marketify is a website specialized on startups grow. You can find diferent digital marketing services, join the platform and grow your business.',
+	buttonLabel: 'View Project',
 
-// 	linkTo: '/more',
-// 	imgStart: '',
-// 	backgroundColor: 'linear-gradient(225deg,#0abac2,#b2de94)',
-// 	img: {psicoapp},
-// 	start: 'true',
-// };
+	linkTo: 'https://marketify-website.netlify.app/',
+	imgStart: '',
+	backgroundColor: 'linear-gradient(225deg,#0abac2,#b2de94)',
+	img: marketify,
+	start: 'true',
+};

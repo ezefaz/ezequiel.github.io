@@ -1,5 +1,4 @@
 import React from 'react'
-import placeholder from '../Assets/placeholder.png'
 import milestone1 from '../Assets/milestone1.png'
 import milestone2 from '../Assets/milestone2.png'
 import milestone3 from '../Assets/milestone3.png'

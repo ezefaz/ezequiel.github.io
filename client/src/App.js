@@ -12,7 +12,7 @@ import Video from './Components/Video'
 import Content from './Components/Content';
 import Testimonials from './Components/Testimonials';
 import {AnimatePresence, motion} from 'framer-motion/dist/framer-motion'
-import { heroOne, heroTwo, heroThree } from './Data/HeroData';
+import { heroOne, heroTwo, heroThree, heroFour } from './Data/HeroData';
 import Title from './Components/Title';
 
 
@@ -29,6 +29,7 @@ function App() {
       <Title value='Portfolio'/>
 			<Content {...heroTwo} />
 			<Content {...heroThree} />
+			<Content {...heroFour} />
       <Skills />
       <Video />
       <Testimonials />

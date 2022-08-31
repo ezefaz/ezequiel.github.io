@@ -4,9 +4,6 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { useAnimation } from 'framer-motion';
 import Tilt from 'react-tilt';
-import portfolio1 from '../Assets/portfolio1.png'
-import portfolio2 from '../Assets/portfolio2.png'
-import Title from './Title'
 
 const Content = ({
 	primary,
