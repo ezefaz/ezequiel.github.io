@@ -65,6 +65,7 @@ function Skills() {
 				</div>
 				<div className='skills_content'>
 					<p className='title'>Developing my main skills day by day.</p>
+
 					<div className='description'>
 						I specialize in crafting customized applications and web pages
 						tailored to meet clients' unique requirements. I constantly strive
