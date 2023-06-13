@@ -95,11 +95,11 @@ const Section = styled.section`
 			width: 70%;
 			.title {
 				h1 {
-					font-size: 10rem;
-					width: 100%;
-					line-height: 10rem;
+					font-size: 5rem;
+					width: 80%;
+					line-height: 6rem;
 					word-wrap: break-word;
-					height: 10rem;
+					height: 3rem;
 					margin-bottom: 10rem;
 				}
 			}
@@ -139,14 +139,14 @@ const Section = styled.section`
 				margin-bottom: 2rem;
 				.title {
 					h1 {
-						font-size: 6rem;
-						width: 80%;
+						font-size: 4rem;
+						width: 100%;
 						display: flex;
-						line-height: 6rem;
+						line-height: 4rem;
 						word-wrap: break-word;
 						height: 12rem;
 						margin: auto;
-						padding-bottom: 4rem;
+						padding-bottom: 2rem;
 					}
 				}
 			}

@@ -176,9 +176,9 @@ const Section = styled.section`
 		}
 	}
 	.description {
-		font-size: 1.4rem;
+		font-size: 1.2rem;
 		font-family: cursive;
-		width: 70%;
+		width: 90%;
 	}
 	@media screen and (min-width: 280px) and (max-width: 1080px) {
 		overflow-x: hidden;
