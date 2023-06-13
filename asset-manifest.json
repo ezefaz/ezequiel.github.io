@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6b352f1d.chunk.css",
-    "main.js": "/portfolio/static/js/main.79d6ce44.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.79d6ce44.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3a98d786.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3a98d786.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.759428a8.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.759428a8.js.map",
     "static/js/2.4b45cee4.chunk.js": "/portfolio/static/js/2.4b45cee4.chunk.js",
@@ -20,7 +20,7 @@
     "static/media/portfolio2.42d28200.png": "/portfolio/static/media/portfolio2.42d28200.png",
     "static/media/portfolio3.297c50ea.png": "/portfolio/static/media/portfolio3.297c50ea.png",
     "static/media/psicoapp.4be67114.jpg": "/portfolio/static/media/psicoapp.4be67114.jpg",
-    "static/media/resume.b1eb2da4.pdf": "/portfolio/static/media/resume.b1eb2da4.pdf",
+    "static/media/resume.27416109.pdf": "/portfolio/static/media/resume.27416109.pdf",
     "static/media/service2.c2af3a2c.png": "/portfolio/static/media/service2.c2af3a2c.png",
     "static/media/skills1.11932f58.png": "/portfolio/static/media/skills1.11932f58.png",
     "static/media/skills2.a59a18ee.png": "/portfolio/static/media/skills2.a59a18ee.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.759428a8.js",
     "static/js/2.4b45cee4.chunk.js",
     "static/css/main.6b352f1d.chunk.css",
-    "static/js/main.79d6ce44.chunk.js"
+    "static/js/main.3a98d786.chunk.js"
   ]
 }
